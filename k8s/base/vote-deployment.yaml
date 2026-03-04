@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: vote
-          image: dockersamples/examplevotingapp_vote
+          image: rimo9docker/vote-app:latest
           ports:
             - containerPort: 80
           env:
