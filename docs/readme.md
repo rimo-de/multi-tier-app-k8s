@@ -39,3 +39,8 @@ The following table outlines the main steps performed during this project.
 | 3    | Created Kubernetes **Deployment and Service YAML files** for Vote, Result, Worker, Redis, and PostgreSQL | [docs/k8s-deployments.md](docs/k8s-deployments.md) |
 | 4    | Configured **Ingress** to expose the application                                                         | [docs/ingress.md](docs/ingress.md)                 |
 | 5    | Implemented **GitHub Actions CI/CD pipeline** to automate builds and deployments                         | [docs/github-actions.md](docs/github-actions.md)   |
+
+## Loom recordings
+
+[Part1](https://www.loom.com/share/7928b2659d1f48fc8a447f371c407f19)
+[Part2](https://www.loom.com/share/341b578ee7814bb3900d843525eb4efb)
