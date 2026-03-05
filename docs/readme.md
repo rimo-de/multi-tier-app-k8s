@@ -8,7 +8,7 @@ The application is based on the **Docker Voting App** and showcases how differen
 
 ## Application Architecture
 
-![Voting App Architecture](./img/Voting%20App.png)
+(![Voting App Architecture](../img/Voting%20App.png))
 
 The application consists of multiple microservices written in different languages and connected through message queues and databases.
 
